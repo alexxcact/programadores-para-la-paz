@@ -1,0 +1,12 @@
+El uso responsable de la información en internet, la participación ciudadana
+y la organización del trabajo técnico con herramientas como Git están
+profundamente relacionados. Cuando una persona verifica la información antes
+de compartirla, actúa como ciudadano digital consciente y contribuye a una
+comunidad más informada y crítica. Esta misma actitud de cuidado y orden se
+refleja en el trabajo técnico: así como no debemos publicar datos sin
+verificar, en Git no publicamos cambios sin revisarlos y documentarlos con
+un mensaje claro. Git nos enseña a registrar cada paso de nuestro trabajo,
+lo que también es una forma de transparencia y responsabilidad, valores
+propios de la ciudadanía digital. En conclusión, ser un buen ciudadano
+digital y ser un buen técnico comparten una misma base: actuar con criterio,
+orden y responsabilidad frente a la información y las herramientas que usamos.
