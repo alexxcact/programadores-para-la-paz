@@ -1,0 +1,11 @@
+Mantener un registro de cambios usando herramientas como Git es fundamental
+en los proyectos de software porque permite tener trazabilidad de todo lo
+que ocurre en el código a lo largo del tiempo. Cada commit deja constancia
+de qué se modificó, quién lo hizo y por qué, lo que facilita encontrar
+errores y recuperar versiones anteriores cuando algo deja de funcionar.
+Además, Git hace posible el trabajo colaborativo, ya que varios
+desarrolladores pueden aportar al mismo proyecto sin pisar el trabajo de
+los demás. También sirve como respaldo, porque el código queda guardado en
+plataformas remotas como GitHub. En resumen, usar Git le da orden, seguridad
+y profesionalismo al desarrollo de software, evitando perder horas de trabajo
+y permitiendo que el proyecto crezca de forma controlada y sostenible.
