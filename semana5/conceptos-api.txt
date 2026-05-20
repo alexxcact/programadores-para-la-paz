@@ -1,29 +1,13 @@
-Explicación de la ruta POST /reporte
-
 ¿Qué hace esta ruta?
-La ruta POST /reporte es un endpoint que recibe información enviada
-desde un cliente (por ejemplo, una aplicación web o una herramienta
-como Thunder Client o Postman). Toma el campo "mensaje" del cuerpo
-de la solicitud (req.body.mensaje) y devuelve una respuesta en
-formato JSON que contiene un estado ("Reporte recibido") y el mismo
-mensaje que se envió. A diferencia de las rutas GET, esta ruta no
-se puede probar simplemente escribiendo la URL en el navegador,
-porque está diseñada para recibir datos, no para mostrarlos.
-
+La ruta POST /reporte recibe información enviada desde un cliente
+(por ejemplo, una aplicación web o herramientas como Thunder Client
+o Postman). Toma el campo "mensaje" del cuerpo de la solicitud y
+responde en formato JSON con un estado ("Reporte recibido") y el
+mismo mensaje enviado.
+ 
 ¿Para qué podría servir en una aplicación comunitaria?
-Esta ruta podría ser muy útil en una aplicación comunitaria que
-permita a los habitantes de una vereda o resguardo reportar
-situaciones que requieren atención. Por ejemplo, podría usarse
-para que las personas envíen reportes de:
-
-- Daños en vías o caminos rurales después de lluvias fuertes.
-- Avistamientos de fauna o reportes de monitoreo ambiental.
-- Alertas sobre problemas con el suministro de agua o energía.
-- Solicitudes a la junta de acción comunal o al cabildo indígena.
-- Reportes de actividades culturales o educativas en el territorio.
-
-El servidor recibiría todos esos mensajes, los podría almacenar
-en una base de datos, y permitiría que las autoridades comunitarias
-o las instituciones tuvieran acceso a la información de forma
-organizada y trazable. Esto convierte a la API en una herramienta
-real de participación ciudadana y gestión comunitaria.
+Podría servir para que las personas de una vereda o resguardo envíen
+reportes sobre situaciones del territorio, como daños en vías, alertas
+ambientales, problemas con el agua o solicitudes a la junta de acción
+comunal. Toda esa información quedaría registrada de forma organizada
+y accesible para las autoridades comunitarias.
