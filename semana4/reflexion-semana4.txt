@@ -1,0 +1,13 @@
+Es muy importante que las comunidades e iniciativas ciudadanas puedan construir
+sus propias herramientas tecnológicas usando tecnologías abiertas como Node.js
+porque eso les permite tener autonomía digital y no depender exclusivamente
+de soluciones comerciales o cerradas que muchas veces son costosas o no se
+adaptan a sus necesidades reales. Al usar tecnologías libres, las comunidades
+pueden modificar, mejorar y compartir las herramientas que crean, garantizando
+que el conocimiento técnico se quede en el territorio y no quede en manos de
+unos pocos. Esto también fortalece procesos como la preservación cultural, la
+educación y la organización social, ya que cada comunidad puede construir
+plataformas que respondan a su lengua, su contexto y sus prioridades. En
+nuestro caso, como pueblo indígena Pasto, contar con desarrolladores propios
+significa poder crear soluciones digitales que respeten nuestra cosmovisión
+y sirvan al fortalecimiento del territorio.
