@@ -1,0 +1,15 @@
+Las APIs pueden convertirse en una herramienta muy poderosa para que las
+comunidades compartan información, reportes y alertas de manera organizada,
+porque permiten conectar diferentes aplicaciones y dispositivos a través
+de un lenguaje común. Gracias a una API, una persona puede enviar desde
+su celular un reporte sobre un problema en su vereda, y esa información
+queda registrada en un servidor donde puede ser consultada por líderes
+comunitarios, autoridades locales o instituciones de apoyo. Esto evita
+que la información se pierda en chats dispersos de WhatsApp o en
+papeles que nadie revisa. Además, las APIs facilitan que diferentes
+plataformas hablen entre sí, lo que significa que un sistema de alertas
+ambientales podría compartir datos con un sistema de salud o de gestión
+del riesgo. En contextos rurales e indígenas como el nuestro, construir
+APIs propias y abiertas significa tener autonomía tecnológica y poder
+organizar la información que produce el territorio según nuestras
+propias prioridades, no según las de empresas externas.

@@ -1,0 +1,19 @@
+Pruebas de rutas del servidor
+
+Ruta: http://localhost:3000
+Esta es la ruta raíz del servidor. Cuando se accede a ella, el servidor
+responde con el texto "Servidor activo", lo que indica que el servidor
+está corriendo correctamente y atendiendo solicitudes en el puerto 3000.
+
+Ruta: http://localhost:3000/saludo
+Esta ruta responde con el mensaje "Hola comunidad". Es una ruta GET
+fija que devuelve siempre el mismo texto, útil para probar que el
+servidor puede manejar diferentes endpoints además de la ruta raíz.
+
+Ruta: http://localhost:3000/mensaje/juan
+Esta ruta utiliza un parámetro dinámico (:nombre) que se captura
+desde la URL. En este caso, el servidor toma el valor "juan" y
+responde con "Hola juan". Si se cambia el nombre en la URL, por
+ejemplo /mensaje/maria, la respuesta será "Hola maria". Esto
+demuestra cómo Express permite recibir información desde la URL
+y usarla para personalizar la respuesta.
