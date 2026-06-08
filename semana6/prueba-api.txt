@@ -1,0 +1,22 @@
+Prueba de la ruta POST /registro
+
+Petición enviada (JSON):
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta recibida del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación:
+Cuando se envía una petición POST a http://localhost:3000/registro con
+los campos "nombre" y "mensaje" en formato JSON, el servidor los recibe
+a través de req.body (gracias al middleware express.json()), y los
+devuelve organizados en un objeto JSON de respuesta que confirma que
+los datos llegaron correctamente. Esto demuestra que el servidor puede
+recibir, leer y procesar información enviada desde un cliente.

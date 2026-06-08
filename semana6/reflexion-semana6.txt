@@ -1,0 +1,14 @@
+Es muy importante que las plataformas tecnológicas puedan recibir reportes
+e información de los ciudadanos de forma estructurada porque eso permite
+organizar, procesar y dar seguimiento a los problemas de una comunidad
+de manera eficiente. Cuando una persona envía un reporte a través de un
+formulario o una API, los datos llegan en un formato ordenado que el
+servidor puede validar, almacenar y consultar fácilmente, en lugar de
+perder esa información en mensajes de WhatsApp o conversaciones informales.
+La estructura también facilita la trazabilidad: se puede saber quién reportó,
+qué tipo de problema es, cuándo ocurrió y cuál fue la respuesta de las
+autoridades. En territorios indígenas y rurales como el nuestro, contar
+con plataformas propias que registren incidencias de forma organizada
+significa tener autonomía para documentar lo que pasa en el territorio,
+hacer seguimiento a los compromisos de las instituciones y fortalecer la
+veeduría ciudadana con datos concretos y verificables.

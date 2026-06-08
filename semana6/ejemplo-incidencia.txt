@@ -1,0 +1,24 @@
+Ejemplo de JSON que un ciudadano podría enviar para reportar una incidencia:
+
+{
+  "tipo": "Agua potable",
+  "descripcion": "La comunidad reporta que el acueducto veredal
+  lleva tres días sin suministrar agua en el sector La Ortiga,
+  afectando a aproximadamente 40 familias."
+}
+
+Otros ejemplos posibles:
+
+{
+  "tipo": "Vía rural",
+  "descripcion": "El camino de acceso a la vereda El Mirador
+  presenta un derrumbe que impide el paso de vehículos desde
+  el día de ayer."
+}
+
+{
+  "tipo": "Alumbrado público",
+  "descripcion": "Tres postes de luz en el parque central del
+  resguardo llevan más de una semana sin funcionar, generando
+  inseguridad en las noches."
+}
