@@ -1,0 +1,14 @@
+Es muy importante que las plataformas tecnológicas usadas por las comunidades
+funcionen de manera estable y segura en un servidor porque de esa estabilidad
+depende que la información llegue a tiempo y que las personas confíen en la
+herramienta. Si un servidor se cae con frecuencia o no responde, una
+comunidad podría perder reportes de incidencias, no recibir alertas a tiempo,
+o no poder consultar información importante justo cuando más la necesita.
+La estabilidad también está relacionada con la seguridad: un servidor bien
+configurado, con logs que registran lo que ocurre y con monitoreo básico,
+permite detectar errores rápidamente y corregirlos antes de que afecten a
+muchas personas. En contextos comunitarios, donde la tecnología apoya
+procesos de organización, veeduría o preservación cultural, contar con
+servidores estables y bien documentados significa que la comunidad puede
+confiar en que su herramienta digital estará disponible cuando la necesite,
+fortaleciendo así la participación y la confianza colectiva.
