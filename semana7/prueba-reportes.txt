@@ -1,0 +1,39 @@
+Prueba de las rutas /reportes
+
+1) Petición POST a http://localhost:3000/reportes
+JSON enviado:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Respuesta del servidor:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+2) Petición GET a http://localhost:3000/reportes
+
+Respuesta del servidor:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Explicación:
+Cada vez que se envía una petición POST a /reportes con un "tipo" y una
+"descripcion", el servidor crea un nuevo objeto reporte, le asigna un id
+automático (basado en la cantidad de elementos del array) y lo agrega
+al array "reportes" que vive en memoria. Cuando se hace una petición GET
+a /reportes, el servidor devuelve todo el array con los reportes que se
+han registrado hasta el momento. Si el servidor se reinicia, el array
+vuelve a quedar vacío porque los datos no se guardan en una base de datos,
+solo en la memoria mientras el proceso está corriendo.

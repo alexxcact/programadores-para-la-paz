@@ -1,0 +1,14 @@
+Es muy importante que las comunidades puedan registrar y consultar reportes
+o incidencias en una plataforma tecnológica porque eso convierte información
+dispersa en información organizada y consultable. Cuando un reporte se
+registra a través de una API, queda guardado con una estructura clara (un
+identificador, un tipo y una descripción), lo que permite después listar
+todos los reportes, filtrarlos o hacerles seguimiento. Esto es mucho más
+efectivo que depender de mensajes sueltos en WhatsApp o conversaciones
+informales que se pierden con el tiempo. Además, una plataforma así permite
+que cualquier persona autorizada consulte el estado de los reportes mediante
+una simple petición GET, sin tener que preguntar directamente a quien los
+recibió. En comunidades rurales e indígenas, contar con este tipo de
+herramientas fortalece la transparencia, facilita la veeduría ciudadana y
+ayuda a que las autoridades locales prioricen y respondan a las necesidades
+del territorio de manera más organizada y trazable.
