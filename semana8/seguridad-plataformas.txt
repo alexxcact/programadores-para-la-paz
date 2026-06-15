@@ -1,0 +1,25 @@
+Prácticas de seguridad para una plataforma digital comunitaria:
+
+1. No exponer datos personales.
+   La información de contacto, ubicación o identidad de las personas
+   que participan no debe mostrarse públicamente sin necesidad.
+
+2. Proteger credenciales.
+   Las contraseñas y tokens de acceso deben ser fuertes, no compartirse
+   y nunca subirse al repositorio (por ejemplo, usando archivos .env
+   y .gitignore).
+
+3. Usar conexiones seguras.
+   Siempre que sea posible, la plataforma debe comunicarse mediante
+   HTTPS para que la información viaje cifrada y no pueda ser
+   interceptada fácilmente.
+
+4. Registrar accesos.
+   Llevar un registro de quién entra al sistema y qué acciones realiza,
+   para poder identificar responsables en caso de un problema.
+
+5. Limitar acceso a información sensible.
+   No todos los usuarios deben tener los mismos permisos; los datos y
+   acciones más delicadas deben estar reservados a roles autenticados
+   con responsabilidades específicas (por ejemplo, administradores de
+   la veeduría).

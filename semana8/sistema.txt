@@ -1,0 +1,30 @@
+Comando: uname -a
+Salida obtenida:
+Linux codespaces-785bb1 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Este comando muestra información general del sistema operativo: el nombre
+del kernel (Linux), el nombre del equipo (codespaces-785bb1), la versión
+del kernel (6.8.0-1052-azure), la fecha de compilación y la arquitectura
+del procesador (x86_64). En resumen, da una "ficha técnica" rápida del
+sistema sobre el que se está trabajando.
+
+Comando: whoami
+Salida obtenida:
+codespace
+
+Este comando muestra el nombre del usuario que está actualmente conectado
+a la sesión de la terminal, en este caso "codespace", que es el usuario
+que GitHub Codespaces asigna por defecto al entorno.
+
+¿Por qué es útil conocer información del sistema cuando se administra
+un servidor?
+
+Conocer esta información es importante porque permite saber exactamente
+en qué entorno se está trabajando: qué versión del sistema operativo y
+del kernel se tiene, qué arquitectura de procesador usa el servidor (lo
+cual afecta qué programas se pueden instalar) y con qué usuario se están
+ejecutando las acciones. Esto es clave para diagnosticar problemas, instalar
+software compatible, y sobre todo para evitar ejecutar comandos críticos
+con un usuario equivocado, por ejemplo con permisos de administrador
+(root) cuando no es necesario, lo cual podría comprometer la seguridad
+del servidor.

@@ -1,0 +1,15 @@
+La seguridad digital es muy importante para proteger plataformas
+tecnológicas que usan comunidades o procesos participativos porque estas
+plataformas suelen manejar información sensible, como datos personales,
+reportes de incidencias o credenciales de acceso. Si un sistema de este
+tipo no aplica buenas prácticas de seguridad, esa información podría ser
+modificada, robada o eliminada por personas externas, lo que afectaría
+directamente la confianza de la comunidad en el proceso. Además, una
+plataforma insegura puede ser vulnerable a ataques que interrumpan su
+funcionamiento justo cuando más se necesita, por ejemplo durante una
+votación o el registro de una alerta urgente. Conocer y aplicar conceptos
+básicos como contraseñas fuertes, no compartir credenciales, mantener el
+software actualizado y limitar el acceso según roles, permite que las
+comunidades construyan herramientas propias sin depender completamente
+de terceros, y que esas herramientas sean confiables, transparentes y
+resistentes frente a posibles riesgos digitales.
