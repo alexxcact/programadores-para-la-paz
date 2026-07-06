@@ -1,0 +1,18 @@
+Las metodologías ágiles, la automatización y canales como Telegram
+pueden ayudar a organizar mejor una comunidad o proceso de participación
+ciudadana porque permiten trabajar de forma ordenada, incremental y
+con resultados visibles desde el principio. En lugar de esperar a tener
+una solución perfecta y completa, las metodologías ágiles proponen
+avanzar por iteraciones cortas: hacer primero lo más importante, probarlo,
+aprender de ello y mejorar en el siguiente ciclo. Esto es especialmente
+valioso en contextos comunitarios, donde los recursos son limitados y
+las necesidades pueden cambiar rápidamente. El backlog permite que la
+comunidad misma priorice qué se construye primero, haciendo el proceso
+más participativo y transparente. Por su parte, la automatización con
+herramientas como n8n reduce el trabajo manual repetitivo: en lugar de
+que alguien tenga que revisar constantemente si llegó un nuevo reporte,
+el sistema avisa automáticamente. Y Telegram, usado con responsabilidad
+y sin exponer datos sensibles, permite mantener al equipo coordinado
+en tiempo real, lo cual fortalece la comunicación y el seguimiento sin
+necesidad de reuniones presenciales constantes. En conjunto, estas
+herramientas no reemplazan la organización humana, pero la potencian.

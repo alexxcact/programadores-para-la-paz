@@ -1,0 +1,17 @@
+Historias de usuario - Sistema de veeduría comunitaria
+(Ordenadas de mayor a menor prioridad)
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia
+   del caso y que pueda ser consultada por la comunidad.
+
+2. Como coordinador quiero recibir una alerta en Telegram cuando se
+   registre un nuevo reporte para revisarlo y darle seguimiento oportuno.
+
+3. Como miembro del equipo de veeduría quiero consultar todos los reportes
+   activos para hacer seguimiento y verificar cuáles han sido atendidos.
+
+4. Como ciudadano quiero consultar el estado de mi reporte para saber si
+   fue recibido y si las autoridades lo están atendiendo.
+
+5. Como administrador quiero exportar los reportes del mes para presentar
+   un informe de gestión ante el cabildo o la junta de acción comunal.

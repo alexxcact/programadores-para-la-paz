@@ -1,0 +1,30 @@
+Definición de la primera iteración
+
+¿Qué 2 tareas del backlog haría primero?
+
+1. Registrar una incidencia (Historia 1)
+2. Consultar reportes activos (Historia 3)
+
+¿Por qué son las más importantes?
+
+Estas dos tareas forman el núcleo funcional del sistema: sin poder
+registrar una incidencia, la plataforma no tiene utilidad; y sin poder
+consultarlas, el registro no sirve de nada. Son las dos operaciones
+básicas (POST y GET) sobre las que se construyen todas las demás
+funcionalidades. Empezar por ellas permite tener un sistema mínimo
+funcional que ya aporta valor real a la comunidad desde el primer ciclo.
+
+Definición de "terminado"
+
+Una tarea se considera terminada cuando cumple estos criterios:
+
+1. Funciona: la funcionalidad hace lo que se describió en la historia
+   de usuario sin errores visibles.
+2. Fue probada: se verificó manualmente (o con una herramienta como
+   Thunder Client o Postman) que la ruta responde correctamente.
+3. Quedó registrada en Git: los cambios fueron guardados con un commit
+   descriptivo y publicados en el repositorio de GitHub.
+4. No expone datos sensibles: no hay tokens, claves ni datos personales
+   en el código ni en los archivos subidos al repositorio.
+5. Está documentada: el archivo README o la bitácora refleja qué se
+   hizo y cómo probarlo.
