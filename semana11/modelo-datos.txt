@@ -1,0 +1,30 @@
+Modelo de datos — Plataforma de reportes comunitarios
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Guardar las incidencias o situaciones reportadas por los ciudadanos
+de la comunidad, permitiendo hacerles seguimiento desde el momento
+del registro hasta su resolución.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- responsable
+- comentario
+- fecha_actualizacion
+
+Propósito:
+Registrar las acciones o actualizaciones que se realizan sobre cada
+reporte, para que el equipo de veeduría pueda documentar el proceso
+de atención y mantener trazabilidad de lo ocurrido con cada caso.

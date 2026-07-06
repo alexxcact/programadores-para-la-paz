@@ -1,0 +1,18 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe
+tener base de datos, autenticación de usuarios y protección de información
+porque sin estas tres capas, la herramienta no puede ser ni útil ni
+confiable a largo plazo. La base de datos permite que la información no
+se pierda cuando el servidor se reinicia, que pueda consultarse y filtrarse
+de forma organizada, y que exista un registro histórico de todo lo que ha
+ocurrido en la plataforma. Sin ella, los reportes, apoyos y seguimientos
+desaparecerían con cada reinicio del sistema. La autenticación garantiza
+que las acciones más delicadas (modificar un reporte, eliminar información,
+acceder a datos privados) solo las puedan realizar personas con el rol y
+los permisos adecuados, evitando el vandalismo digital y protegiendo la
+integridad de la información que la comunidad ha construido. Y la protección
+de datos es una responsabilidad ética fundamental: cuando una comunidad
+confía en una plataforma para reportar una incidencia o expresar su apoyo
+a una causa, espera que su información personal no sea expuesta ni usada
+de forma indebida. En conjunto, estas tres características no son detalles
+técnicos opcionales, sino la base que hace que una plataforma participativa
+merezca la confianza de quienes dependen de ella.

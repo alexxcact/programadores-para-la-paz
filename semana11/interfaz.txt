@@ -1,0 +1,23 @@
+Interfaz básica — Plataforma de reportes comunitarios
+
+La interfaz tendría una sección principal con un formulario para
+registrar un nuevo reporte comunitario. Este formulario incluiría
+campos para el tipo de incidencia (por ejemplo: infraestructura,
+ambiente, agua potable) y una descripción detallada de la situación.
+Al enviarlo, el sistema confirmaría que el reporte fue recibido.
+
+Debajo del formulario aparecería una lista de reportes disponibles,
+mostrando para cada uno el tipo de incidencia, una descripción breve
+y su estado actual (pendiente, en revisión o resuelto). Esta vista
+sería pública para que cualquier miembro de la comunidad pueda
+conocer las situaciones reportadas y hacer seguimiento general.
+
+Cada reporte tendría un botón de apoyo que permitiría a otros
+ciudadanos indicar que también han observado o que respaldan ese
+reporte, junto con un contador visible que mostraría cuántas personas
+lo han apoyado. Esto fortalece la participación colectiva y da mayor
+peso a los casos que afectan a más personas.
+
+La interfaz debe ser clara, sencilla y accesible, con tipografía
+legible y contraste adecuado, y no debe mostrar datos personales
+de quienes registraron los reportes.

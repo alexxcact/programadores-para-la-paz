@@ -1,0 +1,19 @@
+El login en una aplicación es el proceso mediante el cual un usuario
+proporciona sus credenciales (generalmente un nombre de usuario y una
+contraseña) para que el sistema verifique su identidad antes de darle
+acceso a ciertas funciones o información. Sin este paso, cualquier
+persona podría realizar acciones que deberían estar restringidas.
+
+Algunas rutas deben estar protegidas porque contienen información
+privada, registros internos o permiten realizar acciones sensibles
+como modificar o eliminar datos. Por ejemplo, en una plataforma de
+veeduría, solo un coordinador autenticado debería poder ver el detalle
+completo de un reporte con los datos del ciudadano que lo registró,
+o marcar un caso como resuelto.
+
+No deben exponerse públicamente: contraseñas, documentos de identidad,
+números de teléfono, direcciones exactas, tokens de acceso, claves de
+API, ni ningún dato personal que permita identificar directamente a
+una persona. La información que se muestre públicamente debe limitarse
+a lo estrictamente necesario para que la comunidad pueda participar
+e informarse, sin comprometer la privacidad de nadie.
