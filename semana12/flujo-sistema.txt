@@ -1,0 +1,25 @@
+Flujo del sistema — Petición en 3 Clics
+
+Paso 1: Un ciudadano accede a la plataforma y crea una causa,
+escribiendo un título, una descripción del problema y la fecha.
+La causa queda registrada en la base de datos con un identificador
+único y el estado "activa".
+
+Paso 2: La plataforma envía automáticamente una notificación a través
+de Telegram o n8n al equipo coordinador, indicando que una nueva
+causa fue registrada y está disponible para recibir apoyos.
+
+Paso 3: Otros ciudadanos pueden ingresar a la plataforma, consultar
+las causas activas y registrar su apoyo con su nombre. El sistema
+cuenta los apoyos y actualiza el contador visible en la plataforma.
+
+Paso 4: Cuando la causa alcanza un número significativo de apoyos
+o el coordinador lo decide, el sistema genera automáticamente un
+documento PDF con el título de la causa, la descripción, la fecha,
+el número de apoyos registrados y la lista de personas que apoyaron.
+
+Paso 5: El documento PDF generado puede ser descargado y presentado
+formalmente ante las instituciones correspondientes (alcaldía,
+personería, contraloría) como evidencia del respaldo ciudadano
+a la petición, convirtiendo la participación digital en un
+mecanismo formal de exigibilidad democrática.

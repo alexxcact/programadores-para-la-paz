@@ -1,0 +1,33 @@
+Modelo de datos — Petición en 3 Clics
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Guardar las causas comunitarias creadas por los ciudadanos. Cada causa
+tiene un identificador único, un título que resume el problema, una
+descripción detallada, la fecha en que fue registrada y un estado
+(activa, cerrada, resuelta) que permite hacer seguimiento a su avance.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa. El campo causa_id vincula
+cada apoyo con la causa correspondiente, permitiendo contar cuántas
+personas respaldaron cada petición. El nombre del ciudadano se guarda
+para que pueda aparecer en el documento PDF formal, pero no se deben
+almacenar datos adicionales como cédula, teléfono o dirección, aplicando
+el principio de minimización de datos para proteger la privacidad.

@@ -1,0 +1,31 @@
+Automatización simple — Petición en 3 Clics con n8n y Telegram
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma a través de la ruta
+POST /causas de la API, o cuando una causa existente supera un
+número determinado de apoyos (por ejemplo, 10 apoyos registrados).
+
+Acción que realiza n8n:
+n8n detecta el evento mediante un webhook conectado a la API y envía
+automáticamente un mensaje de notificación al canal de Telegram del
+equipo coordinador de la veeduría.
+
+Mensaje que se envía a Telegram:
+"Nueva causa registrada en la plataforma. Revisar el sistema para
+ver los detalles y hacer seguimiento."
+
+O en el caso de apoyos:
+"La causa [título de la causa] acaba de superar los 10 apoyos.
+Considerar generar el documento de petición formal."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos de los ciudadanos que apoyaron.
+- Número de cédula o documento de identidad.
+- Número de teléfono o correo electrónico.
+- Dirección exacta o ubicación del reportante.
+- Tokens de acceso, claves de API o credenciales del sistema.
+- Comentarios privados o datos sensibles incluidos en la descripción.
+
+El mensaje de Telegram debe ser siempre una alerta general que invite
+a revisar la plataforma, nunca un resumen con datos personales de
+los participantes.

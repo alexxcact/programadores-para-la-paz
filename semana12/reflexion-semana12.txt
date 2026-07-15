@@ -1,0 +1,17 @@
+Durante el curso aprendí que la tecnología es una herramienta poderosa
+para fortalecer la participación ciudadana, pero solo cuando se construye
+con criterios claros de utilidad, ética y responsabilidad. Aprendí a
+crear servidores con Node.js y Express, a manejar rutas GET y POST, a
+organizar datos en arrays y bases de datos, a proteger credenciales con
+archivos .env y .gitignore, a usar Git para mantener trazabilidad de los
+cambios, y a diseñar flujos de automatización con n8n y Telegram que
+apoyen la coordinación sin exponer datos sensibles. Pero más allá de lo
+técnico, el aprendizaje más importante fue entender que una plataforma
+comunitaria no solo debe funcionar: debe proteger la privacidad de quienes
+la usan, ser accesible para personas con distintos niveles de experiencia
+digital, mantenerse estable cuando más se necesita y estar documentada
+para que otros puedan entenderla, auditarla o continuarla. En mi contexto
+como parte del Pueblo Pasto y con trabajo en proyectos de preservación
+cultural y organización comunitaria, este curso me dio herramientas
+concretas para construir soluciones propias que respondan a las necesidades
+del territorio, fortaleciendo la soberanía tecnológica de la comunidad.
